@@ -1,0 +1,17 @@
+Rectangle Class:
+
+X coordinate of Rectangle A: 12		y coordinate of Rectangle A: 12
+
+Width A: 0		Height A: 1
+
+Area A: 0 px^2		Perimeter A: 1 px
+
+X coordinate of Rectangle B: 0		y coordinate of Rectangle B: 0
+
+Width B: 0		Height B: 0
+
+Area B: 0 px^2		Perimeter B: 0 px
+
+The rectangle does not intersect.
+
+Total Perimeter for Both:	1 px

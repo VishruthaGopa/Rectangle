@@ -6,8 +6,6 @@ import java.io.*;
 /**
  * Main Class
  * 
- * @author Aiden Garrett
- * @author Vishrutha Gopa
  */
 class Main {
 

@@ -1,9 +1,3 @@
-
-//Team Members
-//1. Vishrutha Gopa
-//2. Aiden Garrett
-//Date Started: May 21st, 2021
-//Date Completed: May 27th, 2021
 //Brief Description: Create a rectangle class that allows users to create rectangle objects and calculate properties such as area, perimeter, point of intersection bewteen 2 rectangles, and properties of an intersecting rectangle formed by two overlapping rectangles. 
 
 import processing.core.PApplet;
